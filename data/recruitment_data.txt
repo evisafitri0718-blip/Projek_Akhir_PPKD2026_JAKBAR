@@ -1,173 +1,177 @@
-============================================================
-DATASET REKRUTMEN RITEL - PT. MITRA RETAIL INDONESIA
-============================================================
 
-[LOWONGAN KERJA]
 
-LOWONGAN 1: STORE MANAGER
-Lokasi: Jakarta Selatan
-Kualifikasi:
-- S1 Manajemen/Ekonomi/Bisnis
-- Pengalaman 3+ tahun sebagai Store Manager/Asisten Store Manager di ritel
-- Menguasai MS Office & POS
-- Leadership & problem solving
-- Bersedia di Jakarta Selatan
-
-LOWONGAN 2: VISUAL MERCHANDISER
-Lokasi: Jakarta Pusat
-Kualifikasi:
-- D3/S1 Desain/Seni Rupa/Komunikasi Visual
-- Pengalaman 2+ tahun sebagai Visual Merchandiser di ritel fashion/lifestyle
-- Menguasai Photoshop, Illustrator, SketchUp
-- Kreatif & punya sense of art
-- Bersedia di Jakarta Pusat
-
-LOWONGAN 3: CASHIER SUPERVISOR
-Lokasi: Tangerang
-Kualifikasi:
-- Minimal SMA/SMK, D3/S1 lebih diutamakan
-- Pengalaman 1+ tahun sebagai kasir/supervisor kasir
-- Menguasai sistem POS
-- Jujur, teliti, bertanggung jawab
-- Bersedia di Tangerang
 
 ============================================================
-[KANDIDAT 1]
-Nama: Andi Pratama
-Pendidikan: S1 Manajemen - UI (2018)
-Pengalaman: 
-- Asisten Store Manager - Matahari (2019-2021)
+RETAIL RECRUITMENT DATASET - PT. KPOP IN INDONESIA
+============================================================
+
+[JOB VACANCIES]
+
+VACANCY 1: STORE MANAGER
+Location: South Jakarta
+Qualifications:
+- Bachelor's Degree in Management/Economics/Business
+- 3+ years of experience as a Store Manager/Assistant Store Manager in retail
+- Proficient in MS Office & POS systems
+- Leadership & problem-solving skills
+- Willing to work in South Jakarta
+
+VACANCY 2: VISUAL MERCHANDISER
+Location: Central Jakarta
+Qualifications:
+- Diploma/Bachelor's Degree in Design/Fine Arts/Visual Communication
+- 2+ years of experience as a Visual Merchandiser in fashion/lifestyle retail
+- Proficient in Photoshop, Illustrator, SketchUp
+- Creative with a strong sense of art
+- Willing to work in Central Jakarta
+
+VACANCY 3: CASHIER SUPERVISOR
+Location: Tangerang
+Qualifications:
+- Minimum High School/Vocational School graduate, Diploma/Bachelor's Degree preferred
+- 1+ year of experience as a cashier/cashier supervisor
+- Proficient in POS systems
+- Honest, detail-oriented, responsible
+- Willing to work in Tangerang
+
+============================================================
+[CANDIDATE 1]
+Name: Andi Pratama
+Education: Bachelor's Degree in Management - University of Indonesia (2018)
+Experience:
+- Assistant Store Manager - Matahari (2019-2021)
 - Store Manager - Alfamart (2021-2023)
-- Store Manager - Indomaret, kelola 20 karyawan (2023-sekarang)
-Sertifikasi: Manajemen Ritel - LSP Ritel (2020)
-Skill: MS Office, POS (Oracle/SAP), Leadership, Inventory, Problem Solving
-Lokasi: Jakarta Selatan
-Ketersediaan: 2 minggu
-Status: Siap bergabung
+- Store Manager - Indomaret, managed 20 employees (2023-present)
+Certification: Retail Management - LSP Retail (2020)
+Skills: MS Office, POS (Oracle/SAP), Leadership, Inventory Management, Problem Solving
+Location: South Jakarta
+Availability: 2 weeks
+Status: Ready to join
 
-[KANDIDAT 2]
-Nama: Budi Santoso
-Pendidikan: S1 Ekonomi - UGM (2017)
-Pengalaman:
-- Staff Operasional - Hypermart (2018-2020)
-- Asisten Store Manager - Lotte Mart (2020-2022)
-- Store Manager - Giant, kelola 25 karyawan (2022-sekarang)
-Sertifikasi: -
-Skill: MS Office, POS, Manajemen Stok, Customer Service
-Lokasi: Jakarta Timur (bisa Jakarta Selatan, Tangerang)
-Ketersediaan: 1 bulan
-Status: Perlu pemberitahuan 1 bulan
+[CANDIDATE 2]
+Name: Budi Santoso
+Education: Bachelor's Degree in Economics - Gadjah Mada University (2017)
+Experience:
+- Operations Staff - Hypermart (2018-2020)
+- Assistant Store Manager - Lotte Mart (2020-2022)
+- Store Manager - Giant, managed 25 employees (2022-present)
+Certification: None
+Skills: MS Office, POS, Inventory Management, Customer Service
+Location: East Jakarta (available for South Jakarta, Tangerang)
+Availability: 1 month
+Status: Requires 1-month notice
 
-[KANDIDAT 3]
-Nama: Citra Dewi
-Pendidikan: D3 Desain Komunikasi Visual - Trisakti (2019)
-Pengalaman:
+[CANDIDATE 3]
+Name: Citra Dewi
+Education: Diploma in Visual Communication Design - Trisakti University (2019)
+Experience:
 - Visual Merchandiser - ZARA (2020-2022)
-- Visual Merchandiser - H&M fashion/lifestyle (2022-sekarang)
-Sertifikasi: Visual Merchandising - Fashion Institute (2021)
-Skill: Photoshop (Mahir), Illustrator (Mahir), SketchUp (Menengah), Display Design, Window Dressing
-Lokasi: Jakarta Pusat (bisa Jakarta Selatan)
-Ketersediaan: Minggu depan
-Status: Siap bergabung
+- Visual Merchandiser - H&M Fashion/Lifestyle (2022-present)
+Certification: Visual Merchandising - Fashion Institute (2021)
+Skills: Photoshop (Advanced), Illustrator (Advanced), SketchUp (Intermediate), Display Design, Window Dressing
+Location: Central Jakarta (available for South Jakarta)
+Availability: Next week
+Status: Ready to join
 
-[KANDIDAT 4]
-Nama: Dedi Firmansyah
-Pendidikan: SMK Akuntansi - SMKN 1 Tangerang (2018)
-Pengalaman:
-- Kasir - Carrefour Tangerang (2019-2021)
-- Kasir Senior - Carrefour (2021-2023)
-- Supervisor Kasir - Carrefour, tim 6 orang (2023-sekarang)
-Sertifikasi: -
-Skill: POS (Micros/Oracle), Rekonsiliasi Kas, Excel, Manajemen Tim Kasir
-Lokasi: Tangerang
-Ketersediaan: Segera
-Status: Siap bergabung
+[CANDIDATE 4]
+Name: Dedi Firmansyah
+Education: Vocational High School in Accounting - SMKN 1 Tangerang (2018)
+Experience:
+- Cashier - Carrefour Tangerang (2019-2021)
+- Senior Cashier - Carrefour (2021-2023)
+- Cashier Supervisor - Carrefour, led a team of 6 cashiers (2023-present)
+Certification: None
+Skills: POS (Micros/Oracle), Cash Reconciliation, Excel, Cashier Team Management
+Location: Tangerang
+Availability: Immediate
+Status: Ready to join
 
-[KANDIDAT 5]
-Nama: Eka Yulianti
-Pendidikan: S1 Seni Rupa - IKJ (2018)
-Pengalaman:
-- Desainer Grafis - Agency Kreatif (2019-2020)
-- Visual Merchandiser - Uniqlo (2020-sekarang)
-Sertifikasi: -
-Skill: Photoshop (Mahir), Illustrator (Mahir), SketchUp (Dasar), Branding & Display
-Lokasi: Jakarta Selatan (bisa Jakarta Pusat)
-Ketersediaan: 3 minggu
-Status: Siap bergabung
+[CANDIDATE 5]
+Name: Eka Yulianti
+Education: Bachelor's Degree in Fine Arts - Jakarta Arts Institute (2018)
+Experience:
+- Graphic Designer - Creative Agency (2019-2020)
+- Visual Merchandiser - Uniqlo (2020-present)
+Certification: None
+Skills: Photoshop (Advanced), Illustrator (Advanced), SketchUp (Basic), Branding & Display Design
+Location: South Jakarta (available for Central Jakarta)
+Availability: 3 weeks
+Status: Ready to join
 
-[KANDIDAT 6]
-Nama: Fitri Handayani
-Pendidikan: S1 Manajemen - UNIBRAW (2016)
-Pengalaman:
+[CANDIDATE 6]
+Name: Fitri Handayani
+Education: Bachelor's Degree in Management - Brawijaya University (2016)
+Experience:
 - Store Supervisor - Sogo (2017-2019)
-- Asisten Store Manager - Seibu (2019-2021)
+- Assistant Store Manager - Seibu (2019-2021)
 - Store Manager - Metro (2021-2023)
-Sertifikasi: Manajemen Ritel - LSP Ritel (2019)
-Skill: MS Office (Mahir), SAP/Oracle POS, Leadership, Manajemen Krisis
-Lokasi: Jakarta Pusat (bisa Jakarta Selatan)
-Ketersediaan: 2 minggu
-Status: Siap bergabung
+Certification: Retail Management - LSP Retail (2019)
+Skills: MS Office (Advanced), SAP/Oracle POS, Leadership, Crisis Management
+Location: Central Jakarta (available for South Jakarta)
+Availability: 2 weeks
+Status: Ready to join
 
-[KANDIDAT 7]
-Nama: Gilang Ramadhan
-Pendidikan: D3 Manajemen Pemasaran - BINUS (2020)
-Pengalaman:
-- Kasir - Hypermart Tangerang (2021-2022)
-- Supervisor Kasir - Hypermart, tim 7 orang (2022-sekarang)
-Sertifikasi: -
-Skill: POS, Rekonsiliasi, MS Office, Pengawasan Tim, Pelaporan Harian
-Lokasi: Tangerang (bisa Jakarta Selatan)
-Ketersediaan: Segera
-Status: Siap bergabung
+[CANDIDATE 7]
+Name: Gilang Ramadhan
+Education: Diploma in Marketing Management - BINUS University (2020)
+Experience:
+- Cashier - Hypermart Tangerang (2021-2022)
+- Cashier Supervisor - Hypermart, led a team of 7 cashiers (2022-present)
+Certification: None
+Skills: POS, Reconciliation, MS Office, Team Supervision, Daily Reporting
+Location: Tangerang (available for South Jakarta)
+Availability: Immediate
+Status: Ready to join
 
-[KANDIDAT 8]
-Nama: Hana Permata
-Pendidikan: S1 Desain Produk - UPH (2019)
-Pengalaman:
-- Desainer Interior - Studio (2020-2021)
+[CANDIDATE 8]
+Name: Hana Permata
+Education: Bachelor's Degree in Product Design - Pelita Harapan University (2019)
+Experience:
+- Interior Designer - Studio (2020-2021)
 - Visual Merchandiser - IKEA (2021-2023)
-Sertifikasi: -
-Skill: Photoshop (Mahir), Illustrator (Mahir), SketchUp (Mahir), AutoCAD (Menengah), 3D Visualization
-Lokasi: Jakarta Utara (bisa Jakarta Pusat, Jakarta Selatan)
-Ketersediaan: Minggu depan
-Status: Siap bergabung
+Certification: None
+Skills: Photoshop (Advanced), Illustrator (Advanced), SketchUp (Advanced), AutoCAD (Intermediate), 3D Visualization
+Location: North Jakarta (available for Central Jakarta, South Jakarta)
+Availability: Next week
+Status: Ready to join
 
-[KANDIDAT 9]
-Nama: Iwan Setiawan
-Pendidikan: S1 Ekonomi - UNPAD (2015)
-Pengalaman:
-- Asisten Store Manager - Ramayana (2018-2020)
-- Store Manager - Ramayana, kelola 18 karyawan (2020-2023)
-Sertifikasi: Manajemen Ritel - LSP Ritel (2021)
-Skill: MS Office, POS, Manajemen Tim, Inventory, Supply Chain
-Lokasi: Depok (bisa Jakarta Selatan, Tangerang)
-Ketersediaan: Segera
-Status: Siap bergabung
+[CANDIDATE 9]
+Name: Iwan Setiawan
+Education: Bachelor's Degree in Economics - Padjadjaran University (2015)
+Experience:
+- Assistant Store Manager - Ramayana (2018-2020)
+- Store Manager - Ramayana, managed 18 employees (2020-2023)
+Certification: Retail Management - LSP Retail (2021)
+Skills: MS Office, POS, Team Management, Inventory, Supply Chain
+Location: Depok (available for South Jakarta, Tangerang)
+Availability: Immediate
+Status: Ready to join
 
-[KANDIDAT 10]
-Nama: Jihan Maulida
-Pendidikan: SMK Pemasaran - SMKN 2 Jakarta (2020)
-Pengalaman:
-- Kasir - Transmart Jakarta (2021-2022)
-- Kasir Senior - Transmart, melatih kasir baru (2022-sekarang)
-Sertifikasi: -
-Skill: POS, Kasir & Rekonsiliasi, Excel, Customer Service
-Lokasi: Jakarta Pusat (bisa Jakarta Selatan)
-Ketersediaan: Segera
-Status: Siap bergabung
+[CANDIDATE 10]
+Name: Jihan Maulida
+Education: Vocational High School in Marketing - SMKN 2 Jakarta (2020)
+Experience:
+- Cashier - Transmart Jakarta (2021-2022)
+- Senior Cashier - Transmart, trained new cashiers (2022-present)
+Certification: None
+Skills: POS, Cashiering & Reconciliation, Excel, Customer Service
+Location: Central Jakarta (available for South Jakarta)
+Availability: Immediate
+Status: Ready to join
 
 ============================================================
-[KRITERIA PENILAIAN]
-1. Kesesuaian pendidikan dengan kualifikasi minimal
-2. Lama pengalaman di bidang terkait
-3. Relevansi pengalaman dengan tanggung jawab
-4. Sertifikasi (nilai tambah)
-5. Ketersediaan dan lokasi penempatan
+[EVALUATION CRITERIA]
 
-Prioritas:
-- Store Manager: leadership > 3 tahun
-- Visual Merchandiser: pengalaman di fashion/lifestyle
-- Cashier Supervisor: pengalaman kasir & rekonsiliasi
+1. Educational qualification match
+2. Length of relevant experience
+3. Relevance of experience to job responsibilities
+4. Certifications (added value)
+5. Availability and location suitability
+
+Priority:
+- Store Manager: Leadership > 3 years experience
+- Visual Merchandiser: Fashion/Lifestyle retail experience
+- Cashier Supervisor: Cashiering & reconciliation experience
 
 ============================================================
 END OF DATASET

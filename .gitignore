@@ -1,16 +1,30 @@
+
+
+
 # Jangan commit file ini!
+
 .env
 
+.streamlit/secrets.toml
+
 # Cache Python
-__pycache__/
-*.pyc
-*.pyo
+
+_pycache_/
+
+*.рус
+
+* -pyo
 
 # Cache model HuggingFace
+
 .cache/
+
 ~/.cache/
 
 # Virtual environment
+
 venv/
+
 env/
+
 .conda/
